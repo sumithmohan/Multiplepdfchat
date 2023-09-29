@@ -7,7 +7,6 @@ Application : Chat with PDF
 @author: Rakesh M K
 """
 import streamlit as st
-import dotenv
 from dotenv import load_dotenv
 from PyPDF2 import PdfReader
 import langchain
