@@ -1,0 +1,10 @@
+[server]
+enableXsrfProtecton = false
+
+
+[theme]
+primaryColor="#e69393"
+backgroundColor="#292725"
+secondaryBackgroundColor="#52463f"
+textColor="#d6c9c8"
+font="monospace"
